@@ -54,7 +54,7 @@ Create html files for all stared items (for last year):
 
 Create html files for unread some feeds (id 7 and 9):
 
-    reeder-get-all-unread-feeds.pl --stared --feeds=7,9
+    reeder-get-all-unread-feeds.pl --feeds=7,9
 
 INSTALLATION
 ------------
