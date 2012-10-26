@@ -43,10 +43,10 @@ use Template;
 use Image::ExifTool;
 use Lingua::Translit;
 
-our $VERSION = 0.09;
+our $VERSION = 0.10;
 our $DEFAULT_DIR_FOR_HTML = './reederapp-feeds';
 our $UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.14 (KHTML, like Gecko) Version/6.0.1 Safari/536.26.14";
-our $DB_PATH = "$ENV{HOME}/Library/Application Support/Reeder";
+our $DB_PATH = "$ENV{HOME}/Library/Containers/com.reederapp.mac/Data/Library/Application Support/Reeder";
 our $CACHE_PATH = "$ENV{HOME}/Library/Caches";
 our $LAST_JQUERY_LIB = "jquery-1.8.2.js";
 our $TIMEOUT = 120;
