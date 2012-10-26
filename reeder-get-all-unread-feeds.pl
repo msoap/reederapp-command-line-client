@@ -48,7 +48,7 @@ our $DEFAULT_DIR_FOR_HTML = './reederapp-feeds';
 our $UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2";
 our $DB_PATH = "$ENV{HOME}/Library/Application Support/Reeder";
 our $CACHE_PATH = "$ENV{HOME}/Library/Caches";
-our $LAST_JQUERY_LIB = "jquery-1.7.2.js";
+our $LAST_JQUERY_LIB = "jquery-1.8.2.js";
 our $TIMEOUT = 120;
 
 # ------------------------------------------------------------------------------
