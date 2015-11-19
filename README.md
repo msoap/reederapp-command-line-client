@@ -1,6 +1,8 @@
 Reeder.app command-line client
 ==============================
 
+**Important:** compatible with DB of Reeder.app v1 (not with v2 or v3).
+
 DESCRIPTION
 -----------
 
